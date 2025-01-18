@@ -1,0 +1,27 @@
+# Byte-compiled files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Logs and debug output
+*.log
+
+# Flask cache and session data
+instance/
+.cache/
+
+# Pytest and coverage reports
+htmlcov/
+.coverage
+.tox/
+.pytest_cache/
+
+# IDE and editor settings
+.vscode/
+.idea/
